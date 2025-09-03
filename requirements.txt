@@ -1,0 +1,13 @@
+langchain
+openai
+streamlit
+gradio
+pandas
+numpy
+openpyxl
+xlsxwriter
+twilio
+yagmail
+python-dotenv
+requests
+pytest
